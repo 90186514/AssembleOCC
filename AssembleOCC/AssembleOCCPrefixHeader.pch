@@ -1,0 +1,42 @@
+
+//
+//  Created by WER on 2018/11/18.
+//  Copyright © 2018 WER. All rights reserved.
+//
+
+#ifndef gtpPrefixHeader_pch
+#define gtpPrefixHeader_pch
+
+#import<objc/runtime.h>
+//三方库
+#import <Masonry/Masonry.h>
+
+
+//#import "UIImageView+WebCache.h"
+
+//GeneralModules
+#import "YBGeneralColor.h"
+#import "YBGeneralFont.h"
+#import "YBNotificationManager.h"
+
+#import "UITableView+YBGeneral.h"
+#import "UICollectionView+YBGeneral.h"
+#import "UIViewController+YBGeneral.h"
+#import "BaseVC.h"
+#import "YBNaviagtionViewController.h"
+
+//ToolModules
+#import "ToolMacro.h"
+#import "YBFrameTool.h"
+
+#import "AABlock.h"
+#import "MyAppDelegate.h"
+
+//Category
+#import "UIButton+Extras.h"
+#import "NSString+Extras.h"
+
+//BusinessModules
+#import "ViewModel.h"
+#import "UserInfoManager.h"
+#endif /*moveNumPrefixHeader_pch */

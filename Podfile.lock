@@ -1,0 +1,20 @@
+PODS:
+  - Masonry (1.1.0)
+  - SSZipArchive (2.2.3)
+
+DEPENDENCIES:
+  - Masonry
+  - SSZipArchive
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+    - SSZipArchive
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  SSZipArchive: 62d4947b08730e4cda640473b0066d209ff033c9
+
+PODFILE CHECKSUM: f7d1f1b76f9e53faebd922d157f07d851eaa4410
+
+COCOAPODS: 1.9.3
