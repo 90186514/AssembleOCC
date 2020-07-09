@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/build/../cocos/platform/ios/cocos2d-prefix.pch \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/DataParser.cpp \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/DataParser.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../core/DragonBones.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/UserData.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/../core/BaseObject.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/DragonBonesData.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/ArmatureData.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/../geom/Matrix.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/../geom/../core/DragonBones.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/../geom/Point.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/../geom/Rectangle.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/../geom/Transform.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/../geom/ColorTransform.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/CanvasData.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/ConstraintData.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/SkinData.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/DisplayData.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/BoundingBoxData.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/AnimationData.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/TextureAtlasData.h

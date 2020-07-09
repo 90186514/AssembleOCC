@@ -70,6 +70,23 @@
 		B9D8B0075C9CD7ED3B561E96 /* Pods_AssembleOCC.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 305190F0AA5DE1BAFC43EED9 /* Pods_AssembleOCC.framework */; };
 /* End PBXBuildFile section */
 
+/* Begin PBXContainerItemProxy section */
+		393E133424B6D866006B6FA0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 393E132F24B6D865006B6FA0 /* cocos2d_libs.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 1551A33F158F2AB200E66CFE;
+			remoteInfo = "libcocos2d Mac";
+		};
+		393E133624B6D866006B6FA0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 393E132F24B6D865006B6FA0 /* cocos2d_libs.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = A07A4D641783777C0073F6A7;
+			remoteInfo = "libcocos2d iOS";
+		};
+/* End PBXContainerItemProxy section */
+
 /* Begin PBXFileReference section */
 		0665D85BF98BF47F1E0D61F8 /* Pods-AssembleOCC.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AssembleOCC.release.xcconfig"; path = "Target Support Files/Pods-AssembleOCC/Pods-AssembleOCC.release.xcconfig"; sourceTree = "<group>"; };
 		1F52CEAF155BAD32619CA41C /* Pods-AssembleOCC.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AssembleOCC.debug.xcconfig"; path = "Target Support Files/Pods-AssembleOCC/Pods-AssembleOCC.debug.xcconfig"; sourceTree = "<group>"; };
@@ -119,6 +136,7 @@
 		393E131F24B5BDE8006B6FA0 /* CppAdapter.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CppAdapter.cpp; sourceTree = "<group>"; };
 		393E132524B5BF3D006B6FA0 /* naviBackItem@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "naviBackItem@3x.png"; sourceTree = "<group>"; };
 		393E132624B5BF3D006B6FA0 /* naviBackItem@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "naviBackItem@2x.png"; sourceTree = "<group>"; };
+		393E132F24B6D865006B6FA0 /* cocos2d_libs.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = cocos2d_libs.xcodeproj; path = "cocos2d-x/build/cocos2d_libs.xcodeproj"; sourceTree = "<group>"; };
 		393EF75624B5A912006B6FA0 /* AssembleOCC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AssembleOCC.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		393EF77324B5AC0E006B6FA0 /* MyAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyAppDelegate.h; sourceTree = "<group>"; };
 		393EF77624B5AC0E006B6FA0 /* ToolMacro.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ToolMacro.h; sourceTree = "<group>"; };
@@ -249,9 +267,19 @@
 			path = public;
 			sourceTree = "<group>";
 		};
+		393E133024B6D865006B6FA0 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				393E133524B6D866006B6FA0 /* libcocos2d Mac.a */,
+				393E133724B6D866006B6FA0 /* libcocos2d iOS.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
 		393EF74D24B5A912006B6FA0 = {
 			isa = PBXGroup;
 			children = (
+				393E132F24B6D865006B6FA0 /* cocos2d_libs.xcodeproj */,
 				393EF77224B5AC0E006B6FA0 /* AssembleOCC */,
 				393E09CE24B5AC3D006B6FA0 /* Classes */,
 				393E09DA24B5AC3D006B6FA0 /* Resources */,
@@ -549,12 +577,35 @@
 			mainGroup = 393EF74D24B5A912006B6FA0;
 			productRefGroup = 393EF75724B5A912006B6FA0 /* Products */;
 			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = 393E133024B6D865006B6FA0 /* Products */;
+					ProjectRef = 393E132F24B6D865006B6FA0 /* cocos2d_libs.xcodeproj */;
+				},
+			);
 			projectRoot = "";
 			targets = (
 				393EF75524B5A912006B6FA0 /* AssembleOCC */,
 			);
 		};
 /* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		393E133524B6D866006B6FA0 /* libcocos2d Mac.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = "libcocos2d Mac.a";
+			remoteRef = 393E133424B6D866006B6FA0 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		393E133724B6D866006B6FA0 /* libcocos2d iOS.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = "libcocos2d iOS.a";
+			remoteRef = 393E133624B6D866006B6FA0 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
 		393EF75424B5A912006B6FA0 /* Resources */ = {

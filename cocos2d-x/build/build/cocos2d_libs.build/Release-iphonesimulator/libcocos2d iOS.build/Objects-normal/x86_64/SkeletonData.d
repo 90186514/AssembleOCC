@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/build/../cocos/platform/ios/cocos2d-prefix.pch \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/SkeletonData.cpp \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/SkeletonData.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/Vector.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/Extension.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/dll.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/SpineObject.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/SpineString.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/BoneData.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/TransformMode.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/SlotData.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/BlendMode.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/Color.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/MathUtil.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/Skin.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/EventData.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/Animation.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/MixBlend.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/MixDirection.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/IkConstraintData.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/TransformConstraintData.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/PathConstraintData.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/PositionMode.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/SpacingMode.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/RotateMode.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/ContainerUtil.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/HashMap.h

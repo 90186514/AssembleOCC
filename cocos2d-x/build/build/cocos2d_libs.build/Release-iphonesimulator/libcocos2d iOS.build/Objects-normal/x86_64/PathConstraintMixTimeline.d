@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/build/../cocos/platform/ios/cocos2d-prefix.pch \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/PathConstraintMixTimeline.cpp \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/PathConstraintMixTimeline.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/CurveTimeline.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/Timeline.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/RTTI.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/SpineObject.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/dll.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/Vector.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/Extension.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/SpineString.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/MixBlend.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/MixDirection.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/Skeleton.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/MathUtil.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/Color.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/Event.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/Animation.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/TimelineType.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/Slot.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/SlotData.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/BlendMode.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/PathConstraint.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/Constraint.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/Updatable.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/PathConstraintData.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/PositionMode.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/SpacingMode.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/RotateMode.h

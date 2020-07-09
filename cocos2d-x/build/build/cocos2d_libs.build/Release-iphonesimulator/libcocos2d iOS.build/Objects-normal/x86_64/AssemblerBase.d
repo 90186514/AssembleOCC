@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/build/../cocos/platform/ios/cocos2d-prefix.pch \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/renderer/scene/assembler/AssemblerBase.cpp \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/renderer/scene/assembler/AssemblerBase.hpp \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/renderer/scene/assembler/../../Macro.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/platform/CCPlatformConfig.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/base/CCVector.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/base/ccMacros.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/base/CCLog.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/platform/CCPlatformDefine.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/platform/ios/CCPlatformDefine-ios.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/base/ccConfig.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/base/ccRandom.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/base/CCRef.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/renderer/scene/assembler/../../renderer/Effect.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/base/CCValue.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/renderer/scene/assembler/../../renderer/../Macro.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/renderer/scene/assembler/../../renderer/Technique.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/platform/CCGL.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/platform/ios/CCGL-ios.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/renderer/scene/assembler/../../renderer/Pass.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/renderer/scene/assembler/../../renderer/../Types.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/renderer/Macro.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/scripting/js-bindings/jswrapper/Object.hpp \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/scripting/js-bindings/jswrapper/config.hpp \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/scripting/js-bindings/jswrapper/jsc/Object.hpp \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/scripting/js-bindings/jswrapper/jsc/../config.hpp \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/scripting/js-bindings/jswrapper/jsc/Base.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/scripting/js-bindings/jswrapper/jsc/HelperMacros.h \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/scripting/js-bindings/jswrapper/jsc/../Value.hpp \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/scripting/js-bindings/jswrapper/HandleObject.hpp \
+  /Users/lino/Desktop/OCCProject/build/jsb-default/frameworks/cocos2d-x/cocos/scripting/js-bindings/jswrapper/jsc/../RefCounter.hpp
